@@ -1,0 +1,15 @@
+.six-digits {
+  color: rgb(0 255 0);
+}
+
+.eight-digits.upper-case {
+  color: rgba(0 0 255 / 0.75294);
+}
+
+.three-digits {
+  color: rgb(17 34 51);
+}
+
+.four-digits {
+  color: rgba(0 0 255 / 0.53333);
+}
